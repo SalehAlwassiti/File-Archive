@@ -1,1 +1,3 @@
-File archiving and browsing system built using python.
+# Archiving System
+
+A system used to log memebers in and manage data
